@@ -1,0 +1,174 @@
+
+
+.div1{
+    width: 100%;
+    height: 80vh;
+    margin-left: -60px;   
+}
+#uy1{
+    position: absolute;
+    font-size: 45px;
+    margin-left: 80px;
+    margin-top:-10px;
+}
+#uy2{
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 150px;
+    margin-left: 80px;
+}
+#uy3{
+    position: absolute;
+    font-size: 19px;
+    opacity: 0.5;
+    margin-top: 270px;
+    margin-left: 70px;
+}
+#btn1{
+    position: absolute;
+    font-size: 18px;
+    width: 160px;
+    height: 40px;
+    background-color:#16df7e;
+    border: none;
+    border-radius: 3px;
+    margin-top: 390px;
+    margin-left: 80px;
+    color: white;
+}
+#btn1{
+    color: blue;
+}
+#i1{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 80px;
+}
+.div2{
+    width: 50%;
+    height: 65vh;
+    position: absolute;
+    position: sticky;
+}
+#ul1{
+    display: flex;
+    list-style: none;
+    margin-left: 150px;
+    text-decoration: none;
+    margin-top: -470px;
+    position: sticky;
+    width:180% ;
+    height: 10vh;
+    background-color: black;
+    position: absolute;
+}
+#ul1>li{
+    margin-left: 50px;
+    position: sticky;
+    
+}
+#s1{
+    margin-left:860px;
+    margin-top: -34px;
+    position: absolute;
+    border: none;
+}
+#btn2{
+    position: absolute;
+margin-left: 990px;
+margin-top:-469px ;
+background-color: #16df7e;
+}
+#btn2:hover{
+    color: blue;
+}
+.div9{
+    margin-top: -159px;
+}
+#img1{
+    margin-top: -999px;
+    margin-left: 480px;
+    animation-duration:10s;
+    width: 650px;
+    height: 650px;
+}
+.maindiv1{
+    width:100% ;
+    height:40vh ;
+    background-color: white;
+    margin:auto ;
+    display: inline-block;
+    position: sticky; 
+    margin-top:-180px;
+    margin-left: 135px;
+}
+.maindivi2{
+    width:25% ;
+    height:35vh ;
+    display: inline-block;
+    background-color: white;
+    margin-top:5px ;
+    margin-left:-25px ;
+}
+.maindivi3{
+    width:25% ;
+    height:35vh ;
+    display: inline-block;
+    background-color: white;
+    margin-top: 19px;
+    margin-left:10px ;
+    text-decoration: none;
+}
+.maindivi4{
+    width:25% ;
+    height:35vh ;
+    background-color: white;
+     margin-top: -203px;
+     margin-left:630px ;
+}
+.maindivi2:hover{
+    color: darkgreen;
+
+}
+.maindivi3:hover{
+    color: darkgreen;
+
+}
+
+.maindivi4:hover{
+   color: darkgreen;
+}
+ 
+.divi1{
+    width:80%;
+    height:60vh;
+    background-color: green;
+    margin: auto;
+    
+
+}
+#id1{
+    font-size: 20px;
+}
+#id2>li{
+   margin-top:30px ;
+   list-style: none; 
+   list-style: ;
+}
+.divi2{
+    width: 50%;
+    height: 60vh;
+  background-color: blueviolet;                                                                                                                                                                                                                              
+  display: inline-block;
+  background: url(https://bootstrapmade.com/demo/templates/eNno/assets/img/about.png);
+  
+}
+.divi3{
+    width: 49%;
+    height: 60vh;
+    background-color: #16df7e;
+    display: inline-block;
+}
